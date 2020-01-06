@@ -1,9 +1,12 @@
-#app {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.box {
-  width: 60px;
-  height: 60px;
-  background-color: #f00;
-  margin: 5px;
+body {
+  background-color: #e6ecf0;
+  font-family: "Helvetica Neue" "Helvetica", Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased !important;
 }
